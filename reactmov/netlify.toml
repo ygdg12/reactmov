@@ -3,4 +3,4 @@
   publish = "build"
 
 [context.production.environment]
-  REACT_APP_TMDB_API_KEY = "your_tmdb_api_key_here"
+  VITE_TMDB_API_KEY=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlMmU5NGM3YTNkNmZhNDIxNjFmY2JiZjYzMTkyMmY2MSIsIm5iZiI6MTczODM0MzY5OS44MjcwMDAxLCJzdWIiOiI2NzlkMDUxM2JiNzI2OWI2YjM0ZDJkMjEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.t-fy-bJMiLdh5TCQ3J4chEVZwEizBAjp4IVmJq-Ws6w
